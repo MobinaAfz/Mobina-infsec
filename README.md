@@ -4,7 +4,7 @@
 
 I'm intrested in cybersecurity and problem solving
 
-###Currently
+### Currently
 -Improving my Python skills
 -Building small projects step by step
 
